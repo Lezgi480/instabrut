@@ -22,7 +22,7 @@ Usage: instaBrute -h
 4. OptParse
 5. Selenium
 
-## Example
+## Exam
 
 ```python
 python instaBrute.py -f usernames.txt -d dictionary.txt
@@ -30,14 +30,4 @@ python instaBrute.py -f usernames.txt -d dictionary.txt
 ```python
 python instaBrute.py -u facebook -d dictionary.txt
 ```
-## Features
-
-1. Check username existence
-2. Check password for a given username
-3. Brute forcer mother fuckers!
-
-## Special Thanks
-
-[@camicelli!](http://twitter.com/camicelli)
-
-Gabriel Rezzonico
+## Fe
